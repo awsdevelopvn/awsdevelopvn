@@ -2,12 +2,12 @@
 
 **Languages**
 
-- [ ] ![.NET framework](https://img.shields.io/badge/-dot-net-333333?style=flat&logo=dot-net-framework) ![.NET core](https://img.shields.io/badge/-dot%20net%20core-333333?style=flat&logo=dot-net-core), ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
+- [ ] ![DOT NET](https://img.shields.io/badge/-dot%20net-333333?style=flat&logo=dot-net) ![.NET core](https://img.shields.io/badge/-dot%20net%20core-333333?style=flat&logo=dot-net-core), ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
 - [ ] ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=Jquery&logoColor=1572B6) ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=AngularJS), ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
 **Design**
- - [ ] ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=Microservices) ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=OOP) ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-333333?style=flat&logo=design-pattern) ![SOLID principles](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=SOLID)
+ - [ ] ![Microservice](https://img.shields.io/badge/-Microservice-333333?style=flat&logo=Microservice) ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=OOP) ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-333333?style=flat&logo=design-pattern) ![SOLID principles](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=SOLID)
 
 **Databases**
 
