@@ -2,7 +2,7 @@
 
 **Languages**
 
-- [ ] ![DOT NET](https://img.shields.io/badge/-dot%20net-333333?style=flat&logo=dot-net) ![.NET core](https://img.shields.io/badge/-dot%20net%20core-333333?style=flat&logo=dot-net-core), ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
+- [ ] ![DOT NET](https://img.shields.io/badge/-dot%20net%20framework-333333?style=flat&logo=.net) ![.NET core](https://img.shields.io/badge/-dot%20net%20core-333333?style=flat&logo=.net), ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c#)
 - [ ] ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=Jquery&logoColor=1572B6) ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=AngularJS), ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
