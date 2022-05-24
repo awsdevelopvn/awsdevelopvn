@@ -17,7 +17,7 @@
 
 **Cloud**
 
-- [ ] ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS) ![SNS](https://img.shields.io/badge/-SNS-333333?style=flat&logo=SNS) ![Lambda](https://img.shields.io/badge/-Lambda-333333?style=flat&logo=Lambda) ![SQS](https://img.shields.io/badge/-SQS-333333?style=flat&logo=SQS) ![RDS](https://img.shields.io/badge/-RDS-333333?style=flat&logo=RDS) ![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=EC2) ![S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=S3) ![Azure Function](https://img.shields.io/badge/Azure%20Function-blue) ![Service Bus](https://img.shields.io/badge/-Service%20Bus-green)
+- [ ] ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS) ![SNS](https://img.shields.io/badge/-SNS-333333?style=flat&logo=SNS) ![Lambda](https://img.shields.io/badge/-Lambda-333333?style=flat&logo=Lambda) ![SQS](https://img.shields.io/badge/-SQS-333333?style=flat&logo=SQS) ![RDS](https://img.shields.io/badge/-RDS-333333?style=flat&logo=RDS) ![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=EC2) ![S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=S3) ![Azure Function](https://img.shields.io/badge/Azure%20Function-blue?style=flat&logo=dotnet) ![Service Bus](https://img.shields.io/badge/-Service%20Bus-green?style=flat&logo=dotnet)
 
 **IDEs**
 
